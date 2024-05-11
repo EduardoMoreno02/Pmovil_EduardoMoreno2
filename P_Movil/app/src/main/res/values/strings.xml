@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lenguajes</string>
+    <string name="Country_name">Idiomas</string>
+    <string name="textView">Elige tu idioma</string>
+    <string name="Next">Siguiente</string>
+    <string name="En">Welcome</string>
+    <string name="In">Welcome</string>
+    <string name="Hin">स्वागत</string>
+    <string name="Aleman">Willkommen</string>
+    <string name="Frances">Accueillir</string>
+    <string name="Holandes">Welkom</string>
+
+
+</resources>
